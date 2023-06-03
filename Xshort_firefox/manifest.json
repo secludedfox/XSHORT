@@ -1,0 +1,46 @@
+{
+
+  "manifest_version": 2,
+  "name": "XSHORT",
+  "version": "1.5",
+
+  "description": "Skip YouTube Shorts that match certain key words and user selected channels",
+
+  "icons": {
+    "48": "icons/48-icon.png",
+    "96": "icons/96-icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://*.youtube.com/*"],
+      "js": ["xshort.js"]
+    }
+  ],
+
+"permissions": ["tabs","webRequest","storage"],
+
+
+"background": {
+  "scripts":["bg.js"]
+},
+
+
+"browser_specific_settings": {
+  "gecko": {
+    "id": "WAKF.SYS@pm.me"
+  }
+},
+
+"browser_action": {
+  "default_title": "Block Channel",
+  "default_icon": {
+    "16": "icons/16-icon.png",
+    "32": "icons/32-icon.png"
+  },
+  "default_popup": "popup/set.html"
+}
+
+
+
+}

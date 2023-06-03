@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #777777;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.footer {
+    margin-top: 100px;
+    text-decoration: none;
+    color: #5f5f5f;
+}
+
+.footer:hover {
+    color: #fff;
+    cursor: pointer;
+}

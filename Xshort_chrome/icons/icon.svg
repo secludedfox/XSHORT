@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.5517957"
+     inkscape:cx="192.28013"
+     inkscape:cy="742.91278"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="276"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="127.52631"
+       y="699.77359"
+       width="20.533897"
+       height="26.117676"
+       id="rect2928" />
+    <rect
+       x="127.52631"
+       y="699.77356"
+       width="20.533897"
+       height="26.117676"
+       id="rect2928-1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#666666;stroke-width:0.0210388"
+       d="m 61.982305,194.36635 c 0.194397,-0.0578 -0.01888,-0.0695 -0.105189,-0.0811 -1.063021,-0.14309 -1.879927,-0.89237 -2.094497,-1.9211 -0.0457,-0.2191 -0.05131,-0.64038 -0.01149,-0.86259 0.114961,-0.64146 0.501353,-1.23665 1.029135,-1.58526 0.180369,-0.11913 5.500487,-2.91316 5.690952,-2.98878 0.676999,-0.26879 1.494168,-0.20866 2.118328,0.15588 0.566958,0.33112 0.966802,0.86056 1.138544,1.50757 0.06248,0.23534 0.07814,0.72964 0.03106,0.97943 -0.09342,0.49562 -0.322944,0.93572 -0.665447,1.27592 -0.225431,0.22392 -0.393527,0.33539 -0.924928,0.61329 -0.248785,0.1301 -0.49494,0.26098 -0.547009,0.29084 l -0.09468,0.0543 0.199868,0.0269 c 0.542079,0.073 1.01728,0.29668 1.394092,0.65628 2.926588,6.60916 -15.24783,10.00499 -7.158739,1.87842 z"
+       id="path854-9"
+       inkscape:export-filename="C:\Users\Aaron\Documents\code\Xshort\icons\16-icon.png"
+       inkscape:export-xdpi="32.000042"
+       inkscape:export-ydpi="32.000042"
+       sodipodi:nodetypes="ccsssssssssscscc" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2926"
+       style="line-height:1.25;font-family:Uroob;font-size:21.33333333px;-inkscape-font-specification:Uroob;white-space:pre;shape-inside:url(#rect2928)"
+       inkscape:export-filename="C:\Users\Aaron\Documents\code\Xshort\icons\16-icon.png"
+       inkscape:export-xdpi="32.000042"
+       inkscape:export-ydpi="32.000042" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.28821;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect1030-5"
+       width="12.7"
+       height="12.7"
+       x="58.291267"
+       y="186.64708"
+       inkscape:export-filename="C:\Users\Aaron\Documents\code\Xshort\icons\16-icon.png"
+       inkscape:export-xdpi="32.000042"
+       inkscape:export-ydpi="32.000042" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,19.527886,-8.1133203)"
+       id="text2926-8"
+       style="font-size:21.3333px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:Uroob;white-space:pre;shape-inside:url(#rect2928-1)"
+       inkscape:export-filename="C:\Users\Aaron\Documents\code\Xshort\icons\16-icon.png"
+       inkscape:export-xdpi="32.000042"
+       inkscape:export-ydpi="32.000042" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:Uroob;stroke-width:0.264583"
+       x="63.288834"
+       y="194.8705"
+       id="text4870"
+       inkscape:export-filename="C:\Users\Aaron\Documents\code\Xshort\icons\16-icon.png"
+       inkscape:export-xdpi="32.000042"
+       inkscape:export-ydpi="32.000042"><tspan
+         sodipodi:role="line"
+         id="tspan4868"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Blippo;-inkscape-font-specification:Blippo;stroke-width:0.264583"
+         x="63.288834"
+         y="194.8705">X</tspan></text>
+  </g>
+</svg>
